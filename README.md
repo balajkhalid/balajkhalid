@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Balaj Khalid
+## Hi there 👋 I'm Balaj Khalid
 
-Data Scientist/Machine Learning Engineer
+### Data Scientist/Machine Learning Engineer
 
 <!--
 
