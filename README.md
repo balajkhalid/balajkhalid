@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **balaj.khalid@ymail.com**
 
-- 📄 Know about my experiences [my experiences](https://balajkhalid.github.io)
+- 📄 Know about [my experiences](https://balajkhalid.github.io)
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
  
 ![Balaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=balajkhalid\&theme=dark\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=balajkhalid&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=balajkhalid&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
@@ -126,10 +126,6 @@ Here are some ideas to get you started:
 
 ![Balaj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=balajkhalid&custom_title=Balaj's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<br>
 
 <!-- Profile View -->
 <p align="right">
