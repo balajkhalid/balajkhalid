@@ -65,8 +65,14 @@ Here are some ideas to get you started:
 </p>
 
 - Database
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="left">
+  <style>
+    .tab{
+      display: inline-block;
+      margin-left: 4em;
+    }
+  </style>
+  <a span class = "tab" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />
   </a>
 </p>
