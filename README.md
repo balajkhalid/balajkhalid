@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/balaj-khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balajkhalid" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/balaj-khalid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="balajkhalid" height="30" width="40" /></a>
+  <a href="https://github.com/in/balajkhalid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=light" alt="balajkhalid" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -56,28 +57,28 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 - Languages
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,swift,julia,matlab,java,nodejs,vuejs,c,c++,dart,html,css,latex&theme=light" />
   </a>
 </p>
 
 - Database
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />
   </a>
 </p>
 
 - Cloud Servers
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,firebase&theme=light" />
   </a>
 </p>
 
 - Tools
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,linux&theme=light" />
   </a>
