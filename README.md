@@ -86,7 +86,7 @@
  <br><br>
 -->
 
-<img src="https://tenor.com/view/banner-black-divider-black-divider-discord-gif-3450958590677204590" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
