@@ -37,7 +37,7 @@
 <p align="left">
   &emsp;
   &emsp;
-    <img src="https://skillicons.dev/icons?i=py,r,swift,julia,matlab,javascript,c,cpp,dart,html,css,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,r,swift,julia,c,cpp,javascript,dart,html,css,latex,matlab&theme=light" />
 </p>
 
 - Frameworks
