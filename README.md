@@ -14,14 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<!-- Profile View -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balajkhalid&label=Profile%20views&color=0e75b6&style=flat" alt="balaj khalid profile view" />
-</p>
-
-<!-- Languages -->
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
@@ -35,7 +28,9 @@ Here are some ideas to get you started:
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+</div> 
+
+-->
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
@@ -60,39 +55,31 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
-
-- Backend
+- Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=py,r,swift,julia,matlab,java,nodejs,vuejs,c,c++,dart,html,css,latex&theme=light" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase&theme=light" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,linux&theme=light" />
   </a>
 </p>
 
@@ -137,4 +124,10 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
+
+<!-- Profile View -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=balajkhalid&label=Profile%20views&color=0e75b6&style=flat" alt="balaj khalid profile view" />
+</p>
+
 <p align="right" > Created by <a href="http://balajkhalid.github.io">Balaj Khalid</a></p>
