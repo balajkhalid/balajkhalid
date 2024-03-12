@@ -65,7 +65,7 @@
 <p align="left">
   &emsp;
   &emsp;
-    <img src="https://skillicons.dev/icons?i=anaconda,git,github,docker,figma,xd,vscode,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=anaconda,git,github,docker,vscode,linux,figma,xd&theme=light" />
 </p>
 
 <br/>
