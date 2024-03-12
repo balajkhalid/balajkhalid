@@ -40,6 +40,13 @@
     <img src="https://skillicons.dev/icons?i=py,r,swift,julia,matlab,java,nodejs,vuejs,c,cpp,dart,html,css,latex&theme=light" />
 </p>
 
+- Frameworks
+<p align="left">
+  &emsp;
+  &emsp;
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light" />
+</p>
+
 - Database
 <p align="left">
   &emsp;
@@ -53,14 +60,6 @@
   &emsp;
     <img src="https://skillicons.dev/icons?i=aws,gcp,firebase&theme=light" />
 </p>
-
-- Frameworks
-<p align="left">
-  &emsp;
-  &emsp;
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light" />
-</p>
-
 
 - Tools
 <p align="left">
