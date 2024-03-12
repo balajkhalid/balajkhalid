@@ -54,11 +54,19 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,firebase&theme=light" />
 </p>
 
+- Frameworks
+<p align="left">
+  &emsp;
+  &emsp;
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light" />
+</p>
+
+
 - Tools
 <p align="left">
   &emsp;
   &emsp;
-    <img src="https://skillicons.dev/icons?i=pytorch,anaconda,tensorflow,git,github,docker,figma,xd,vscode,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=anaconda,git,github,docker,figma,xd,vscode,linux&theme=light" />
 </p>
 
 <br/>
