@@ -58,7 +58,7 @@
 <p align="left">
   &emsp;
   &emsp;
-    <a href="https://icons8.com/icon/jH4BpkMnRrU5/pytorch"></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,linux&theme=light" />
 </p>
 
