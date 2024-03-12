@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Balaj Khalid
+## Hi, I'm Balaj 👋
 
 ### Data Scientist/Machine Learning Engineer
 
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://komarev.com/ghpvc/?username=balajkhalid&label=Profile%20views&color=0e75b6&style=flat" alt="balaj khalid profile view" /> 
