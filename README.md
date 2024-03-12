@@ -2,6 +2,11 @@
 
 ### Data Scientist/Machine Learning Engineer
 
+<p>I'm Balaj Khalid, a passionate and driven graduate student from Karachi, Pakistan, currently pursuing a Master's in Computer Science with a specialization in Artificial Intelligence at the University of Southern California. My journey in the tech world has been both enriching and challenging, having previously honed my skills as a Data Scientist at Afiniti for over two years. At Afiniti, I employed state-of-the-art machine learning models to enhance customer experience by optimizing runtime agent and caller pairing, boosting significant revenue generation for our clients.</p>
+
+
+<p>My passion lies in dissecting and understanding complex patterns in data. I thrive on the challenge of capturing these nuances and training models to distill valuable insights from them. This drive stems from a deep-seated belief in the power of data to not just predict the future but to mold it. As I continue my academic and professional journey, I remain committed to pushing the boundaries of what's possible in AI, driven by a vision to innovate and transform industries through the lens of machine learning.</p>
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
