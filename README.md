@@ -58,7 +58,7 @@
 <p align="left">
   &emsp;
   &emsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="20" width="20"/>
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,linux&theme=light" />
 </p>
 
