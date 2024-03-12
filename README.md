@@ -11,15 +11,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
-- 🔭 I’m currently studying **Master's in Computer Science - Artificial Intelligence at University of Southern California**
+- 📚 I’m currently studying **Master's in Computer Science - Artificial Intelligence at University of Southern California**
 
-- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence & Swift UI**
+- 📒 I’m currently learning **Markov Chains, Computer Vision & Swift UI**
 
-- 💬 Ask me about **Python, R, Shopify, MySQL, PostgreSQL**
+- 💬 Ask me about **Machine Learning, Computer Vision, Speach & Language Processing, **
 
 - 📫 How to reach me **balaj.khalid@ymail.com**
 
-- 📄 Know about [my experiences](https://balajkhalid.github.io)
+- 📑 Know about [my experiences](https://balajkhalid.github.io)
 
 <br>
 <h3 align="left">Connect with me:</h3>
