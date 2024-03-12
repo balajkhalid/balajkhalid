@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 - Languages
-<p align="center">
+<p align="left">
+  &emsp;
+  &emsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,swift,julia,matlab,java,nodejs,vuejs,c,cpp,dart,html,css,latex&theme=light" />
   </a>
@@ -74,14 +76,18 @@ Here are some ideas to get you started:
 </p>
 
 - Cloud Servers
-<p align="center">
+<p align="left">
+  &emsp;
+  &emsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,firebase&theme=light" />
   </a>
 </p>
 
 - Tools
-<p align="center">
+<p align="left">
+  &emsp;
+  &emsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,linux&theme=light" />
   </a>
