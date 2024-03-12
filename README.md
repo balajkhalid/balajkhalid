@@ -37,14 +37,14 @@
 <p align="left">
   &emsp;
   &emsp;
-    <img src="https://skillicons.dev/icons?i=py,r,swift,julia,matlab,java,nodejs,vuejs,c,cpp,dart,html,css,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,r,swift,julia,matlab,javascript,c,cpp,dart,html,css,latex&theme=light" />
 </p>
 
 - Frameworks
 <p align="left">
   &emsp;
   &emsp;
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nodejs,vuejs&theme=light" />
 </p>
 
 - Database
