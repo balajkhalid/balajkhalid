@@ -15,7 +15,7 @@
 
 - 📒 I’m currently learning **Markov Chains, Computer Vision & Swift UI**
 
-- 💬 Ask me about **Machine Learning, Computer Vision, Speach & Language Processing, **
+- 💬 Ask me about **Machine Learning, Computer Vision, Speach & Language Processing**
 
 - 📫 How to reach me **balaj.khalid@ymail.com**
 
