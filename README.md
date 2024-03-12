@@ -44,6 +44,7 @@
 <p align="left">
   &emsp;
   &emsp;
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" />
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nodejs,vuejs&theme=light" />
 </p>
 
