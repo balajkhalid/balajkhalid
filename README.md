@@ -48,18 +48,19 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/balaj-khalid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="balajkhalid" height="30" width="40" /></a>
-  <a href="https://github.com/in/balajkhalid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=light" alt="balajkhalid" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/balaj-khalid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="balajkhalid-linkedin" height="30" width="40" /></a>
+  <a href="https://github.com/balajkhalid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=light" alt="balajkhalid-github" height="30" width="40" /></a>
 </p>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
+
 - Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,swift,julia,matlab,java,nodejs,vuejs,c,c++,dart,html,css,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,r,swift,julia,matlab,java,nodejs,vuejs,c,cpp,dart,html,css,latex&theme=light" />
   </a>
 </p>
 
@@ -86,28 +87,32 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!--
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Trophy:</h3>
 
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+</p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+</div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
+-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=balajkhalid\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Balaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=balajkhalid\&theme=dark\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=balajkhalid&theme=midnight-purple)](https://git.io/streak-stats)
 
