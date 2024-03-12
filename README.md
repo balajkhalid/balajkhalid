@@ -26,6 +26,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/balaj-khalid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="balajkhalid-linkedin" height="30" width="40" /></a>
   <a href="https://github.com/balajkhalid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=light" alt="balajkhalid-github" height="30" width="40" /></a>
+  <a class="github-button" href="https://github.com/balajkhalid" aria-label="Follow @balajkhalid on GitHub">Follow @balajkhalid</a>
 </p>
 <br>
 
