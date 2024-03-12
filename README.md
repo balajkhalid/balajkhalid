@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 - Database
 <p align="left">
   &emsp;
+  &emsp;
   <a span class = "tab" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />
   </a>
