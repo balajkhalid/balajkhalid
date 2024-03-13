@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Machine Learning, Computer Vision, Speach & Language Processing**
 
-- 📫 How to reach me **balaj.khalid@ymail.com**
+- 📫 You can reach me at **balaj.khalid@ymail.com**
 
 - 📑 Know about [my experiences](https://balajkhalid.github.io)
 
