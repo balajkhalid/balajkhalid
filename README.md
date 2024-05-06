@@ -7,13 +7,17 @@
 
 <p>My passion lies in dissecting and understanding complex patterns in data. I thrive on the challenge of capturing these nuances and training models to distill valuable insights from them. This drive stems from a deep-seated belief in the power of data to not just predict the future but to mold it. As I continue my academic and professional journey, I remain committed to pushing the boundaries of what's possible in AI, driven by a vision to innovate and transform industries through the lens of machine learning.</p>
 
+<p>
+  In my spare time, I enjoy exploring other technologies and developing Shopify stores, iOS apps, and games.
+</p>
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
 - 📚 I’m currently studying **Master's in Computer Science - Artificial Intelligence at University of Southern California**
 
-- 📒 I’m currently learning **Markov Chains, Computer Vision & Swift UI**
+- 📒 I’m currently learning **Game Development**
 
 - 💬 Ask me about **Machine Learning, Computer Vision, Speach & Language Processing**
 
@@ -37,7 +41,7 @@
 <p align="left">
   &emsp;
   &emsp;
-    <img src="https://skillicons.dev/icons?i=py,r,swift,cpp,java,javascript,julia,dart,html,css,latex,matlab&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,r,swift,cs,cpp,java,javascript,julia,dart,html,css,latex,matlab&theme=light" />
 </p>
 
 - Frameworks
@@ -66,7 +70,7 @@
 <p align="left">
   &emsp;
   &emsp;
-    <img src="https://skillicons.dev/icons?i=anaconda,git,github,docker,vscode,linux,figma,xd&theme=light" />
+    <img src="https://skillicons.dev/icons?i=anaconda,git,github,docker,vscode,linux,unity,figma,xd&theme=light" />
 </p>
 
 <br/>
