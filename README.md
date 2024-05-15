@@ -8,7 +8,7 @@
 <p>My passion lies in dissecting and understanding complex patterns in data. I thrive on the challenge of capturing these nuances and training models to distill valuable insights from them. This drive stems from a deep-seated belief in the power of data to not just predict the future but to mold it. As I continue my academic and professional journey, I remain committed to pushing the boundaries of what's possible in AI, driven by a vision to innovate and transform industries through the lens of machine learning.</p>
 
 <p>
-  In my spare time, I enjoy exploring new and emerging technologies, as well as developing Shopify stores, iOS apps, and games.
+  In my spare time, I enjoy exploring new and emerging technologies, as well as developing Shopify stores and iOS apps.
 </p>
 
 
@@ -17,7 +17,7 @@
 
 - 📚 I’m currently studying **Master's in Computer Science - Artificial Intelligence at University of Southern California**
 
-- 📒 I’m currently learning **Game Development**
+- 📒 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Machine Learning, Computer Vision, Speach & Language Processing**
 
@@ -41,7 +41,7 @@
 <p align="left">
   &emsp;
   &emsp;
-    <img src="https://skillicons.dev/icons?i=py,r,swift,cs,cpp,java,javascript,julia,dart,html,css,latex,matlab&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,r,swift,cpp,java,javascript,julia,dart,html,css,latex,matlab&theme=light" />
 </p>
 
 - Frameworks
@@ -70,7 +70,7 @@
 <p align="left">
   &emsp;
   &emsp;
-    <img src="https://skillicons.dev/icons?i=anaconda,git,github,docker,vscode,linux,unity,figma,xd&theme=light" />
+    <img src="https://skillicons.dev/icons?i=anaconda,git,github,docker,vscode,linux,figma,xd&theme=light" />
 </p>
 
 <br/>
