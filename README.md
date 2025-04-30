@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **AI, Machine Learning, Natural Language Processing & LLMs**
 
-- 📫 You can reach me at **balaj.khalid@ymail.com**
+- 📫 You can reach me at **bkhalid@usc.edu**
 
 - 📑 Know about [my experiences](https://balajkhalid.github.io)
 
